@@ -1,3 +1,4 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
 @import url("//fonts.googleapis.com/earlyaccess/droidarabicnaskh.css");
 * {
@@ -11,7 +12,7 @@
 }
 body {
     direction: lfl;
-    background: #237F6A;
+    background: #FFC702;
 }
 a {
     text-decoration: none;
@@ -256,3 +257,6 @@ button:hover {
     text-align: center;
     background-color: rgb(250, 245, 235);
 }
+
+  
+  
